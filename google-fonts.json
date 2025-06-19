@@ -14088,6 +14088,106 @@
         "regular": "http://fonts.gstatic.com/s/zillaslabhighlight/v6/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxhtIY2DwSXlM.ttf",
         "700": "http://fonts.gstatic.com/s/zillaslabhighlight/v6/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0TET4YmVF0Mb6.ttf"
       }
+    },
+	{
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Arial",
+      "category": "serif",
+      "variants": ["regular", "700", "600italic","italic"],
+      "subsets": ["latin", "latin-ext"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Courier New",
+      "category": "monospace",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Georgia",
+      "category": "serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Lucida Sans Unicode",
+      "category": "sans-serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Lucida Sans",
+      "category": "sans-serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Helvetica",
+      "category": "sans-serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Tahoma",
+      "category": "sans-serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Times New Roman",
+      "category": "serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Trebuchet MS",
+      "category": "sans-serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
+    },
+    {
+      "kind": "emailsafefonts#emailsafefont",
+      "family": "Verdana",
+      "category": "sans-serif",
+      "variants": ["regular", "bold", "italic", "bolditalic"],
+      "subsets": ["latin"],
+      "version": "system",
+      "lastModified": "2025-16-19",
+      "files": {}
     }
   ]
 }
